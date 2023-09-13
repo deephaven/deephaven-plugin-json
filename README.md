@@ -1,4 +1,6 @@
-# Deephaven Plugin for json
+# DEPRECATED
+
+Please use the monorepo at https://github.com/deephaven/deephaven-plugins
 
 The Deephaven Plugin for json.
 
